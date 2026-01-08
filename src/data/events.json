@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Tech Innovation Summit 2025",
+        "date": "January 15, 2025",
+        "time": "9:00 AM - 6:00 PM",
+        "location": "Convention Center, Downtown",
+        "description": "Join industry leaders for a day of insights on AI, blockchain, and the future of technology.",
+        "category": "Tech",
+        "price": "$149",
+        "attendees": "520+",
+        "image": "/Event Images/Tech Event/EPN_0539-3-1-e1705934863400.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Elegant Garden Wedding Showcase",
+        "date": "January 20, 2025",
+        "time": "2:00 PM - 8:00 PM",
+        "location": "Rose Garden Estate, Riverside",
+        "description": "Experience the magic of a dream wedding. Floral arrangements, gourmet catering, and more.",
+        "category": "Wedding",
+        "price": "Free",
+        "attendees": "150+",
+        "image": "/Event Images/Marriage Event/WhatsApp Image 2026-01-08 at 9.55.08 PM (2).jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Ultimate Birthday Bash Extravaganza",
+        "date": "January 25, 2025",
+        "time": "5:00 PM - 11:00 PM",
+        "location": "SkyLounge, Central Tower",
+        "description": "The most epic birthday celebration of the year! Live DJ, photo booths, unlimited fun, and more.",
+        "category": "Birthday",
+        "price": "$35",
+        "attendees": "200+",
+        "image": "/Event Images/Birthday Event/WhatsApp Image 2026-01-08 at 9.55.07 PM.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Music & Beats Festival",
+        "date": "February 5, 2025",
+        "time": "4:00 PM - 12:00 AM",
+        "location": "Central Park Amphitheater",
+        "description": "An electrifying evening of live performances from top artists and emerging talents.",
+        "category": "Festival",
+        "price": "$75",
+        "attendees": "1200+",
+        "image": "/Event Images/Music Festivals/WhatsApp Image 2026-01-08 at 9.55.11 PM (1).jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Community Gathering Gala",
+        "date": "February 10, 2025",
+        "time": "6:00 PM - 10:00 PM",
+        "location": "Grand Ballroom, City Hotel",
+        "description": "Celebrate community spirit with networking, entertainment, and memorable moments.",
+        "category": "Community",
+        "price": "$25",
+        "attendees": "350+",
+        "image": "/Event Images/Gathering Event/WhatsApp Image 2026-01-08 at 9.55.12 PM (2).jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Photography Workshop & Exhibition",
+        "date": "February 15, 2025",
+        "time": "10:00 AM - 5:00 PM",
+        "location": "Art District Gallery",
+        "description": "Learn from master photographers and explore stunning exhibitions of visual storytelling.",
+        "category": "Community",
+        "price": "$45",
+        "attendees": "180+",
+        "image": "/Event Images/Photography Event/WhatsApp Image 2026-01-08 at 9.55.10 PM.jpeg"
+    }
+]
