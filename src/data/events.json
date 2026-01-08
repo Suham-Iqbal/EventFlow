@@ -9,7 +9,7 @@
         "category": "Tech",
         "price": "$149",
         "attendees": "520+",
-        "image": "/Event Images/Tech Event/EPN_0539-3-1-e1705934863400.jpg"
+        "image": "/images/Tech Event/EPN_0539-3-1-e1705934863400.jpg"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "category": "Wedding",
         "price": "Free",
         "attendees": "150+",
-        "image": "/Event Images/Marriage Event/WhatsApp Image 2026-01-08 at 9.55.08 PM (2).jpeg"
+        "image": "/images/Marriage Event/WhatsApp Image 2026-01-08 at 9.55.08 PM (2).jpeg"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "category": "Birthday",
         "price": "$35",
         "attendees": "200+",
-        "image": "/Event Images/Birthday Event/WhatsApp Image 2026-01-08 at 9.55.07 PM.jpeg"
+        "image": "/images/Birthday Event/WhatsApp Image 2026-01-08 at 9.55.07 PM.jpeg"
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "category": "Festival",
         "price": "$75",
         "attendees": "1200+",
-        "image": "/Event Images/Music Festivals/WhatsApp Image 2026-01-08 at 9.55.11 PM (1).jpeg"
+        "image": "/images/Music Festivals/WhatsApp Image 2026-01-08 at 9.55.11 PM (1).jpeg"
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "category": "Community",
         "price": "$25",
         "attendees": "350+",
-        "image": "/Event Images/Gathering Event/WhatsApp Image 2026-01-08 at 9.55.12 PM (2).jpeg"
+        "image": "/images/Gathering Event/WhatsApp Image 2026-01-08 at 9.55.12 PM (2).jpeg"
     },
     {
         "id": 6,
@@ -69,6 +69,6 @@
         "category": "Community",
         "price": "$45",
         "attendees": "180+",
-        "image": "/Event Images/Photography Event/WhatsApp Image 2026-01-08 at 9.55.10 PM.jpeg"
+        "image": "/images/Photography Event/WhatsApp Image 2026-01-08 at 9.55.10 PM.jpeg"
     }
 ]

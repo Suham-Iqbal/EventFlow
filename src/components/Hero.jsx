@@ -6,7 +6,7 @@ const Hero = () => {
         <section id="home" className="hero-section">
             <div className="hero-background">
                 <img
-                    src="/Event Images/Gathering Event/WhatsApp Image 2026-01-08 at 9.55.12 PM (2).jpeg"
+                    src="/images/Gathering Event/WhatsApp Image 2026-01-08 at 9.55.12 PM (2).jpeg"
                     alt="Event background"
                 />
                 <div className="hero-overlay"></div>
